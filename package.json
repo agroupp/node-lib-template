@@ -1,0 +1,28 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "Initial template for creating Node.js library (Typescript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agroupp/node-lib-template.git"
+  },
+  "keywords": [
+    "Random",
+    "shortid"
+  ],
+  "author": "Arthur Groupp <arth.groupp@gmail.com> (https://groupp.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agroupp/node-lib-template/issues"
+  },
+  "homepage": "https://groupp.org",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1",
+    "typescript": "^3.8.3"
+  }
+}
